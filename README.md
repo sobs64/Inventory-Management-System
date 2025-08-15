@@ -71,5 +71,4 @@ python app.py
 Open new terminal
 cd frontend
 npm install axios
-npm install
 npm run dev
