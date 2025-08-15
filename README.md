@@ -61,7 +61,7 @@ python -m venv dbms
 dbms\Scripts\activate 
 
 pip install flask flask-cors mysql-connector-python
-pip install mysql-connector
+pip install pymysql
 pip install python-dotenv
 
 python app.py
